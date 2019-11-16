@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="7">
+
+  <testsuite name="reEnact"
+    errors="0" failures="0" hostname="" id="" package="reEnact" skipped="0"
+    tests="7" time="2.515" timestamp="">
+  
+    <testcase name="Even Number" classname="reEnact" time="0.6010" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Odd Number" classname="reEnact" time="0.3130" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Object Filter" classname="reEnact" time="0.3110" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Name Filter" classname="reEnact" time="0.3260" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome - True" classname="reEnact" time="0.2990" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome - False" classname="reEnact" time="0.2970" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Addition" classname="reEnact" time="0.3680" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
